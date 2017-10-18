@@ -1,3 +1,3 @@
-# Implicit treap 
+## Implicit treap
 
-Codes and demo for implicit treap.
+Implicit treap materials for a local program.
